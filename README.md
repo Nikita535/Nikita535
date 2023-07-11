@@ -5,4 +5,4 @@ Hi there, I'am Nikita - Java Dev from Moscow👋
 [![codewars](https://www.codewars.com/users/Nikita535/badges/small)](https://www.codewars.com/users/Nikita535) 
 
 
-(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita535&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita535&theme=solarized_dark)
